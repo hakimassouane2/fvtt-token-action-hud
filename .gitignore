@@ -1,0 +1,10 @@
+foundry.js
+.idea
+*.bat
+/.vs/fvtt-tokenactionhud/v16
+/.vs
+/.vscode
+/.github
+/node_modules
+token-action-hud.lock
+scripts/bundle.min.js
